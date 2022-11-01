@@ -1,0 +1,2 @@
+D:\harle\Documents\C++ Projects\CppEssentialsTraining\numword\x64\Debug\numword.exe
+D:\harle\Documents\C++ Projects\Projects - CppEssentialsTraining\numword\x64\Debug\numword.exe
